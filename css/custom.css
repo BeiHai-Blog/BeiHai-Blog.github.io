@@ -212,3 +212,26 @@ h6::before {
   -webkit-animation: ccc 6s linear infinite;
   animation: ccc 6s linear infinite;
 }
+
+
+
+@font-face {
+  /*字体名称，名字可以随便起，但是注意要一致，建议英文*/
+  font-family: 'HYT';
+  font-display: swap;
+  src: url('../fonts/HYTangMeiRen55W.woff2') format("truetype");
+}
+
+@font-face {
+  /*字体名称，名字可以随便起，但是注意要一致，建议英文*/
+  font-family: 'Yu';
+  font-display: swap;
+  src: url('../fonts/筑紫A丸by宁静之雨.woff2') format("truetype");
+}
+
+@font-face {
+  /*字体名称，名字可以随便起，但是注意要一致，建议英文*/
+  font-family: 'Xia';
+  font-display: swap;
+  src: url('../fonts/霞鹜文楷.woff2') format("truetype");
+}
